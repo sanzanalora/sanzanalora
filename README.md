@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World!!!! This is Sanzana Karim Lora. 👋
 
 <!--
 **SanzanaKarimLora/SanzanaKarimLora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Machine Learning and Natural Language Processing
+- 💬 Ask me about any topic related to computer science
+- 📫 How to reach me: [Website]https://sanzanakarimlora.github.io/
+- ⚡ Fun fact: Reading story books
