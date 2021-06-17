@@ -27,9 +27,6 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://www.linkedin.com/in/sanzana-lora/">
   <img align="left" alt="LinkdeIN" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
-<a target="_blank" href="https://twitter.com/IamFarZanaEva">
-  <img align="left" alt="Github" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/GitHub.svg" />
-</a>
 
 ---
 ### Languages and Tools
