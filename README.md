@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning Machine Learning and Natural Language Processing
 - 💬 Ask me about any topic related to computer science
-- 📫 How to reach me: [Website]https://sanzanakarimlora.github.io/
+- 📫 How to reach me: [Website] https://sanzanakarimlora.github.io/
 - ⚡ Fun fact: Reading story books
