@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Website](https://sanzanakarimlora.github.io/)
 - ⚡ Fun fact: Reading story books
 
+<img align="right" alt="GIF" src="https://github.com/sanzanakarimlora/sanzanakarimlora/blob/main/coder.gif?raw=true" width="500" height="320" />
 
 ---
 ### Languages and Tools
