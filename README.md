@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img align="left" alt="LinkdeIN" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 <a target="_blank" href="https://twitter.com/IamFarZanaEva">
-  <img align="left" alt="Github" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Github.svg" />
+  <img align="left" alt="Github" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/GitHub.svg" />
 </a>
 
 ---
