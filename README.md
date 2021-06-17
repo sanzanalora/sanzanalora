@@ -18,3 +18,17 @@ Here are some ideas to get you started:
 - 💬 Ask me about any topic related to computer science
 - 📫 How to reach me: [Website](https://sanzanakarimlora.github.io/)
 - ⚡ Fun fact: Reading story books
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Lora's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sanzanakarimlora&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Lora's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzanakarimlora" />
+
+</details>
