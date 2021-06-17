@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="GIF" src="https://github.com/sanzanakarimlora/sanzanakarimlora/blob/main/coder.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/sanzanakarimlora/sanzanakarimlora/blob/main/code.gif?raw=true" width="500" height="320" />
 
 - 🌱 I’m currently learning Machine Learning and Natural Language Processing
 - 💬 Ask me about any topic related to computer science
