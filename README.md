@@ -34,6 +34,10 @@ Here are some ideas to get you started:
   <img align="left" alt="LinkdeIN" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 
+<a target="_blank" href="sanzanakarimlora.github.io/">
+  <img align="left" alt="Website" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Website.svg" />
+</a>
+
 ---
 <br />
 ---
