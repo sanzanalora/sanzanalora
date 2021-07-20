@@ -51,6 +51,11 @@ Here are some ideas to get you started:
 ---
 <br />
 ---
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sanzanakarimlora&label=Profile%20views&color=brightgreen&style=plastic"> </p>
+
+---
+<br />
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
