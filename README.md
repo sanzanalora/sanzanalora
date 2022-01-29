@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 <img align="right" alt="GIF" src="https://github.com/sanzanakarimlora/sanzanakarimlora/blob/main/code.gif?raw=true" width="500" height="320" />
 
+- ❤️ Love to work on Bengali Language Processing
 - 🌱 I’m currently learning Machine Learning, Deep Learning and Natural Language Processing
 - 💬 Ask me about any topic related to computer science
 - 📫 How to reach me: [Website](https://sanzanakarimlora.github.io/)
