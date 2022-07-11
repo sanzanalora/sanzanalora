@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 ---
 <br/>
 ---
-<p align = "center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=SanzanaKarimLora&custom_title=My%20Activity&hide_border=true&theme=github" alt="SanzanaKarimLora" /></p>
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanzanaKarimLora&&theme=dark" alt="SanzanaKarimLora" /></p>
 <p align = "center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanzanaKarimLora&theme=monokai" alt="SanzanaKarimLora" /></p>
 <p align = "center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SanzanaKarimLora&theme=monokai" alt="SanzanaKarimLora" /><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SanzanaKarimLora&theme=monokai" alt="SanzanaKarimLora" /></p>
 <p align = "center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SanzanaKarimLora&theme=monokai" alt="SanzanaKarimLora" /><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SanzanaKarimLora&theme=monokai" alt="SanzanaKarimLora" /></p>
