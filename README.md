@@ -76,3 +76,4 @@ Here are some ideas to get you started:
 <br/>
 ---
 <p align = "center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanzanaKarimLora&theme=monokai" alt="SanzanaKarimLora" /></p>
+<p align = "center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SanzanaKarimLora&theme=monokai" alt="SanzanaKarimLora" /><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SanzanaKarimLora&theme=monokai" alt="SanzanaKarimLora" /></p>
