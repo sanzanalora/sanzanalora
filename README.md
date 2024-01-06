@@ -3,7 +3,7 @@
 ### This is Sanzana Karim Lora 😄
 
 <!--
-**SanzanaKarimLora/SanzanaKarimLora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sanzanalora/sanzanalora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="GIF" src="https://github.com/sanzanakarimlora/sanzanakarimlora/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/sanzanalora/sanzanakarimlora/blob/main/code.gif?raw=true" width="500" height="320" />
 
 - ❤️ Love to work on Bengali Language Processing
 - 🌱 I’m currently learning Machine Learning, Deep Learning and Natural Language Processing
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ---
 <br />
 ---
-<p align="center"><img src="https://komarev.com/ghpvc/?username=sanzanakarimlora&label=Profile%20views&color=brightgreen&style=plastic"> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sanzanalora&label=Profile%20views&color=brightgreen&style=plastic"> </p>
 
 ---
 <br />
@@ -61,19 +61,19 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Lora's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sanzanakarimlora&show_icons=true&hide_border=true" />
+  <img align="left" alt="Lora's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sanzanalora&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Lora's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzanakarimlora" />
+<img align="left" alt="Lora's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzanamlora" />
 
 </details>
 
 ---
 <br/>
 ---
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanzanaKarimLora&&theme=light" alt="SanzanaKarimLora" /></p>
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanzanaLora&&theme=light" alt="SanzanaLora" /></p>
 
