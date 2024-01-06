@@ -75,5 +75,5 @@ Here are some ideas to get you started:
 ---
 <br/>
 ---
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SanzanaLora&&theme=light" alt="SanzanaLora" /></p>
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzanalora&&theme=light" alt="sanzanalora" /></p>
 
