@@ -45,10 +45,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sanzanalora&label=Profile%20views&color=brightgreen&style=plastic"> </p>
 
-🔥 Streak:
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanzanalora&theme=dark" alt="Contribution Streak">
-</div
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzanalora&&theme=dark" alt="sanzanalora" /></p>
 
 
 <details>
@@ -67,5 +64,5 @@ Here are some ideas to get you started:
 
 
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzanalora&&theme=dark" alt="sanzanalora" /></p>
+
 
