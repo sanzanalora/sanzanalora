@@ -52,11 +52,12 @@ Here are some ideas to get you started:
 
 <br/>
 
-### Streak:hourglass_flowing_sand
+### Streak :hourglass_flowing_sand
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzanalora&&theme=dark" alt="sanzanalora" /></p>
 
 <br/>
+
 ### Code Canvas: GitHub Stats & Preferred Languages 📅 🎨  
 <details>
   <summary>:zap: GitHub Stats 🏆 </summary>
