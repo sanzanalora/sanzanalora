@@ -46,8 +46,9 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sanzanalora&label=Profile%20views&color=brightgreen&style=plastic"> </p>
 
 🔥 Streak:
-
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanzanalora&theme=dark)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanzanalora&theme=dark" alt="Contribution Streak">
+</div
 
 
 <details>
