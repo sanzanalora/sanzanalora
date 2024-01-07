@@ -63,6 +63,9 @@ Here are some ideas to get you started:
 
 </details>
 
+---
+<br />
+---
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzanalora&&theme=light" alt="sanzanalora" /></p>
 
