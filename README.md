@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Website](https://sanzanakarimlora.github.io/)
 - ⚡ Fun fact: Reading story books without taking any break
 
+<br/>
 
 ### Connect with me
 
@@ -31,6 +32,7 @@ Here are some ideas to get you started:
   <img align="left" alt="LinkdeIN" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 
+<br/>
 
 ### Languages and Tools
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -43,9 +45,8 @@ Here are some ideas to get you started:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 ### Profile Views :eyes:
-![Profile Views](https://komarev.com/ghpvc/?username=sanzanalora&label=Profile%20views&color=blueviolet&style=flat)
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=sanzanalora&label=Profile%20views&color=brightgreen&style=plastic"> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sanzanalora&label=Profile%20views&color=blueviolet&style=flat"> </p>
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzanalora&&theme=dark" alt="sanzanalora" /></p>
 
