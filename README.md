@@ -1,6 +1,6 @@
-### Hello World!!!! 👋
+<!-- ### Hello World!!!! 👋 -->
 
-<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif?raw=true" style="height: 150px; width: auto;" />
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif?raw=true" style="height: 200px; width: auto;" />
 
 ### This is Sanzana Karim Lora 😄
 
