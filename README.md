@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-![Lora's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanzanalora&show_icons=true&theme=dark)
+![Lora's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanzanalora&show_icons=true&layout=compact&theme=dark)
 
 ## Top Languages
 
