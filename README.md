@@ -42,36 +42,25 @@ Here are some ideas to get you started:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
----
-<br />
----
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sanzanalora&label=Profile%20views&color=brightgreen&style=plastic"> </p>
-
-
-## GitHub Stats
-
-![Lora's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanzanalora&show_icons=true&layout=compact&theme=dark)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanzanalora&layout=compact&theme=dark)
 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Lora's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sanzanalora&show_icons=true&hide_border=true" />
+  <img align="left" alt="Lora's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sanzanalora&show_icons=true&hide_border=true&theme=dark" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Lora's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzanalora" />
+<img align="left" alt="Lora's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzanalora&theme=dark" />
 
 </details>
 
 
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzanalora&&theme=light" alt="sanzanalora" /></p>
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzanalora&&theme=dark" alt="sanzanalora" /></p>
 
