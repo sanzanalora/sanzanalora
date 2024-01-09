@@ -56,10 +56,9 @@ Here are some ideas to get you started:
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzanalora&&theme=dark" alt="sanzanalora" /></p>
 
+<br/>
+<p align="center"><img src="[https://komarev.com/ghpvc/?username=sanzanalora&label=Profile%20views&color=blueviolet&style=flat](https://img.shields.io/github/last-commit/sanzanalora/sanzanalora?label=Latest%20Activity&style=flat)"> </p>
 
-
-
-![Last Activity](https://img.shields.io/github/last-commit/sanzanalora/sanzanalora?label=Contribution%20Streak&style=flat)
 
 <br/>
 
