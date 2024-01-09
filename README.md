@@ -58,6 +58,11 @@ Here are some ideas to get you started:
 
 <br/>
 
+# GitHub Activity
+
+![GitHub Activity](https://profile-summary-for-github.com/user/sanzanalora.svg)
+
+<br/>
 ### Code Canvas: GitHub Stats & Preferred Languages 📅 🎨  
 <details>
   <summary>:zap: GitHub Stats 🏆 </summary>
