@@ -56,15 +56,12 @@ Here are some ideas to get you started:
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzanalora&&theme=dark" alt="sanzanalora" /></p>
 
+
+
+
+![Last Activity](https://img.shields.io/github/last-commit/sanzanalora/sanzanalora?label=Contribution%20Streak&style=flat)
+
 <br/>
-
-### GitHub Contribution Streak
-
-![GitHub Contribution Streak](https://img.shields.io/github/last-commit/sanzanalora/sanzanalora?label=Contribution%20Streak&style=flat)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanzanalora)](https://github.com/sanzanalora)
-
 
 
 ### Code Canvas: GitHub Stats & Preferred Languages 📅 🎨  
