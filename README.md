@@ -56,13 +56,6 @@ Here are some ideas to get you started:
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzanalora&&theme=dark" alt="sanzanalora" /></p>
 
-<p align="center" >
-<a href="https://github.com/sanzanalora/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=sanzanalora&&show_icons=true&theme=radical"/>
-  </a>
-
-</p>
-
 <br/>
 
 ### Code Canvas: GitHub Stats & Preferred Languages 📅 🎨  
