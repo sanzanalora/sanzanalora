@@ -63,6 +63,10 @@ Here are some ideas to get you started:
 
 <br/>
 
+### Activity Details At a Glance
+<p align = "center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanzanalora&theme=monokai" alt="sanzanalora" /></p>
+<p align = "center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanzanalora&theme=monokai" alt="sanzanalora" /><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanzanalora&theme=monokai" alt="sanzanalora" /></p>
+<p align = "center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanzanalora&theme=monokai" alt="sanzanalora" /><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanzanalora&theme=monokai" alt="sanzanalora" /></p>
 
 ### Code Canvas: GitHub Stats & Preferred Languages 📅 🎨  
 <details>
