@@ -58,6 +58,11 @@ Here are some ideas to get you started:
 
 <br/>
 
+### GitHub Contribution Streak
+
+![GitHub Contribution Streak](https://img.shields.io/github/last-commit/sanzanalora/sanzanalora?label=Contribution%20Streak&style=flat)
+
+
 ### Code Canvas: GitHub Stats & Preferred Languages 📅 🎨  
 <details>
   <summary>:zap: GitHub Stats 🏆 </summary>
