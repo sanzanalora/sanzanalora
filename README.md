@@ -58,11 +58,15 @@ Here are some ideas to get you started:
 
 <br/>
 
+
 # GitHub Activity
 
-![GitHub Activity](https://profile-summary-for-github.com/user/sanzanalora.svg)
+[![Years Badge](https://badges.pufler.dev/years/sanzanalora)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/year/sanzanalora)](https://badges.pufler.dev)
+
 
 <br/>
+
 ### Code Canvas: GitHub Stats & Preferred Languages 📅 🎨  
 <details>
   <summary>:zap: GitHub Stats 🏆 </summary>
