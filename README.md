@@ -59,10 +59,9 @@ Here are some ideas to get you started:
 <br/>
 
 
-# GitHub Activity
+# My GitHub Activity
 
-[![Years Badge](https://badges.pufler.dev/years/sanzanalora)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/year/sanzanalora)](https://badges.pufler.dev)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sanzanalora/sanzanalora)
 
 
 <br/>
