@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 -->
 <img align="right" alt="GIF" src="https://github.com/sanzanalora/sanzanalora/blob/main/code.gif?raw=true" width="500" height="320" />
 
-- ❤️ Love to work on Low-Resource Natural Language Processing
-- 🌱 I’m currently learning Machine Learning, Deep Learning and Natural Language Processing
-- 💬 Ask me about any topic related to computer science
-- 📫 How to reach me: [Website](https://sanzanakarimlora.github.io/)
-- ⚡ Fun fact: Reading story books without taking any break
+- ❤️ Love to work on Low-Resource Natural Language Processing 💻❤️🔡🌍
+- 🌱 I’m currently learning Machine Learning, Deep Learning and Natural Language Processing 👨‍💻💡
+- 💬 Ask me about any topic related to computer science ❓💬🔡🌍
+- 📫 How to reach me: [Website](https://sanzanakarimlora.github.io/) 📩👋
+- ⚡ Fun fact: Error 404: Sleep Not Found 😴❌🔍
 
 <br/>
 
