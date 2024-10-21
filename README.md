@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif?raw=true" style="height: 100px; width: auto;" />
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif?raw=true" style="height: 130px; width: auto;" />
 
 ### This is Sanzana Karim Lora 😄
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="GIF" src="https://github.com/sanzanalora/sanzanalora/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/sanzanalora/sanzanalora/blob/main/code.gif?raw=true" width="450" height="300" />
 
 - ❤️ Love to work on Low-Resource Natural Language Processing 💻❤️🔡🌍
 - 🌱 I’m currently learning Machine Learning, Deep Learning and Natural Language Processing 👨‍💻💡
