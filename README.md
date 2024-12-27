@@ -53,10 +53,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-## 📈 GitHub Stats
-
-![Sanzana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanzanalora&show_icons=true&theme=radical)
-
 ### Streak ⏳
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzanalora&&theme=dark" alt="sanzanalora" /></p>
