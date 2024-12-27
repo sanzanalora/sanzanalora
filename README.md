@@ -1,7 +1,8 @@
 <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif?raw=true" style="height: 130px; width: auto;" />
 
 ### This is Sanzana Karim Lora 😄
-
+![GitHub followers](https://img.shields.io/github/followers/sanzanalora?style=social)
+![GitHub stars](https://img.shields.io/github/stars/sanzanalora?style=social)
 <!--
 **sanzanalora/sanzanalora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
